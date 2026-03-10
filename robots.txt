@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://terapiadelenguaje.cr/sitemap.xml
+
+# LLM guidance
+# See /llms.txt for machine-readable information about this site and its owner
